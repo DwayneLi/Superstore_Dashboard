@@ -11,7 +11,7 @@ Dataset: [US Superstore data ](https://www.kaggle.com/juhi1994/superstore)
 
 ![Superstore Strategic Dashboard](./Superstore_Reports/superstore_strategic.png)
 
-- Workbook Name: Superstore Operational Dashboard
+- Workbook Name: [Superstore Operational Dashboard](https://public.tableau.com/profile/donghuai.li#!/vizhome/FinalSuperstoreDashboard/superstore)
 
  The strategic dashboard is designed to show main points of interes to the full executive team:
 - Top-level revenue, profit, average profit ratio and units sold
@@ -24,7 +24,7 @@ Dataset: [US Superstore data ](https://www.kaggle.com/juhi1994/superstore)
 
 ![Superstore Operational Dashboard](./Superstore_Reports/Superstore_operational.png)
 
-- Workbook Name: Superstore Operational Dashboard
+- Workbook Name: [Superstore Operational Dashboard](https://public.tableau.com/profile/donghuai.li#!/vizhome/SuperstoreDashboard_15952913305750/Superstore)
 - Dataset:  [US Superstore data ](https://www.kaggle.com/juhi1994/superstore)
 
 The operational dashboard trying to answer following business questions:
@@ -39,7 +39,7 @@ The operational dashboard trying to answer following business questions:
 
 ![Flights Delay Dashboard](./Flights_Delay_Analysis/Flights_Delay.png)
 
-- Workbook Name: Flights Delay Dashboard
+- Workbook Name:[Flights Delay Dashboard ](https://public.tableau.com/profile/donghuai.li#!/vizhome/insight1_15949455103090/Story1) 
 - Dataset:  [Flights Delay data ](https://www.kaggle.com/usdot/flight-delays/data)
 
 This is a story created by Tableau. Three parts of the story dipict insights I refined from dataset. Topics included:
