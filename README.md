@@ -5,7 +5,7 @@ I have displayed a few Tableau Dashboard using public datasets below. You can fi
 
 # Superstore_Dashboard
 From the Data Visualization Nanodegree. This dataset contained order information on superstore item sales from 2014 to 2018. 
-Dataset: [US Superstore data ](https://www.kaggle.com/juhi1994/superstore)
+Dataset: [US Superstore data ](https://www.kaggle.com/juhi1994/superstore).
 
 ## Superstore Strategic Dashboard
 
