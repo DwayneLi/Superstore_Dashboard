@@ -1,6 +1,6 @@
 # Understanding Data with Visualization
 
-I have displayed a few Tableau Dashboard using public datasets below. You can find each Tableau Workbook within the "Workbook" directory in this repo. Feel free to check out images of the dashboards below, and download any workbook that interests you. I also included SQL queries to wrangle the data into the correct representation.
+I have displayed a few data visualization mainly using Tableau and Flourish based on public datasets. You can find each Tableau Workbook within the "Workbook" directory in this repo. Feel free to check out images of the dashboards below, and download any workbook that interests you. I also included SQL queries to wrangle the data into the correct representation.
 
 # Animate a data story with Flourish
 
@@ -9,10 +9,9 @@ In this [animate story ](https://public.flourish.studio/story/566092/) created b
 <iframe src='https://flo.uri.sh/story/566092/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;' aria-label=''></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/story/566092/?utm_source=embed&utm_campaign=story/566092' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 # Women seats changes in parliaments among world since 1997 [with Medium Post](https://medium.com/@donghuai.li99/how-have-womens-seats-in-parliaments-changed-since-1997-eef18bb41835)
+<iframe src="https://public.tableau.com/views/FEMALEPOLITICALREPRESENTATIONWORLDWIDE/FEMALE_POLITICAL_WORLDWIDE?:showVizHome=no&:embed=true" width="1100" height="1300"></iframe>
 
-<div class='tableauPlaceholder' id='viz1601262007576' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;H8&#47;H87WKXKBM&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;H87WKXKBM' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;H8&#47;H87WKXKBM&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-Hans' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1601262007576');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1580px';vizElement.style.height='2087px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1580px';vizElement.style.height='2087px';} else { vizElement.style.width='100%';vizElement.style.height='1927px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-
-This visualization 
+This visualization shows the changes of women seats in parliaments among world from 1997 to 2019. In general, the high income countires have higher proportion of women in parliaments. Surprisingly, Latin America and Caribbean have had the highest female participation rates since 2003.
 
 # Superstore_Dashboard
 From the Data Visualization Nanodegree. This dataset contained order information on superstore item sales from 2014 to 2018. 
@@ -20,7 +19,7 @@ Dataset: [US Superstore data ](https://www.kaggle.com/juhi1994/superstore).
 
 ## Superstore Strategic Dashboard
 
-<iframe src="https://public.tableau.com/views/FinalSuperstoreDashboard/superstore?:showVizHome=no&:embed=true" width="1485" height="822"></iframe>
+<iframe src="https://public.tableau.com/views/FinalSuperstoreDashboard/superstore?:showVizHome=no&:embed=true" width="1100" height="800"></iframe>
 
 
 - Workbook Name: [Superstore Operational Dashboard](https://public.tableau.com/profile/donghuai.li#!/vizhome/FinalSuperstoreDashboard/superstore)
@@ -34,7 +33,7 @@ Dataset: [US Superstore data ](https://www.kaggle.com/juhi1994/superstore).
 
 ## Superstore Operational Dashboard
 
-<iframe src="https://public.tableau.com/views/SuperstoreDashboard_15952913305750/Superstore?:showVizHome=no&:embed=true"  width="850" height="1100"></iframe>
+<iframe src="https://public.tableau.com/views/SuperstoreDashboard_15952913305750/Superstore?:showVizHome=no&:embed=true"  width="1100" height="800"></iframe>
 
 - Workbook Name: [Superstore Operational Dashboard](https://public.tableau.com/profile/donghuai.li#!/vizhome/SuperstoreDashboard_15952913305750/Superstore)
 - Dataset:  [US Superstore data ](https://www.kaggle.com/juhi1994/superstore)
@@ -49,10 +48,8 @@ The operational dashboard trying to answer following business questions:
 
 ## Flights Delay Dashboard
 
-![Flights Delay Dashboard](./Flights_Delay_Analysis/Flights_Delay.png)
+<iframe src="https://public.tableau.com/views/FlightsDelayAnalysis/delayamongairlines?:showVizHome=no&:embed=true"  width="1100" height="800"></iframe>
 
-<div class='tableauPlaceholder' id='viz1601261712699' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;in&#47;insight1_15949455103090&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='insight1_15949455103090&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;in&#47;insight1_15949455103090&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-Hans' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1601261712699');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-- Dataset:  [Flights Delay data ](https://www.kaggle.com/usdot/flight-delays/data)
 
 This is a story created by Tableau. Three parts of the story dipict insights I refined from dataset. Topics included:
 - Airports in south and west of U.S. is more likely to have a high delay and vice versa.
