@@ -20,7 +20,7 @@ Dataset: [US Superstore data ](https://www.kaggle.com/juhi1994/superstore).
 
 ## Superstore Strategic Dashboard
 
-<iframe src="https://public.tableau.com/views/FinalSuperstoreDashboard/superstore?:showVizHome=no&:embed=true" width="850" height="1100"></iframe>
+<iframe src="https://public.tableau.com/views/FinalSuperstoreDashboard/superstore?:showVizHome=no&:embed=true" width="1485" height="822"></iframe>
 
 
 - Workbook Name: [Superstore Operational Dashboard](https://public.tableau.com/profile/donghuai.li#!/vizhome/FinalSuperstoreDashboard/superstore)
